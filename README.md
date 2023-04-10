@@ -8,9 +8,10 @@
 
 </div>
 
+## Introduction
+This project is about C# Program for Exercise Programming Subject.
 
-
-## :memo: License
+## License
 
 Copyright © 2023 [CS Dosen](https://github.com/rizalarfiyan/cs-dosen).<br />
 This project is [MIT](https://github.com/rizalarfiyan/cs-dosen/blob/master/LICENSE) licensed.
