@@ -11,6 +11,13 @@
 ## Introduction
 This project is about C# Program for Exercise Programming Subject.
 
+## People
+1. Muhamad Rizal Arfiyan (22.11.5227)
+2. Gilang Nur Hidayat (22.11.5196)
+3. Nugroho Ulil Abshar (22.11.5254)
+4. Damar Galih (22.11.5209)
+5. Shafondra Nufus Shulthonik (22.11.5199)
+
 ## License
 
 Copyright © 2023 [CS Dosen](https://github.com/rizalarfiyan/cs-dosen).<br />
